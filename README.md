@@ -41,7 +41,7 @@
 	
 
 <!-- ![visitas](https://visitor-badge.glitch.me/badge?page_id=ALAWA2020/ALAWA2020) -->
-[![HitCount](https://views.whatilearened.today/views/github/ALAWA2020/creative-profile-readme.svg)](https://github.com/ALAWA2020/creative-profile-readme)
+[![HitCount](https://views.whatilearened.today/views/github/stargazing4122/creative-profile-readme.svg)](https://github.com/stargazing4122/creative-profile-readme)
 
 <!--
 <img width="10%" style="padding:5px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>
