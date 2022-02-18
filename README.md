@@ -4,12 +4,12 @@
 ### Programming Languages....  
 
 <p align="center">
+	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/truffle_icon_131920.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"/>
-	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/sass.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
