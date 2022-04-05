@@ -17,7 +17,7 @@
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/postgreesql.png"/>
 	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/480/000000/webpack.png"/>
-	<img width="10%" style="padding:5px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/material-ui.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/html-5.png"/>
